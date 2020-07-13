@@ -16,7 +16,7 @@
 ---
 ## 📝 Sobre
 #### Geração de Curriculo.
-Projeto que foi criado dentro do curso **Reboot.dev** Página de Apresentação Pessoal por **Rafael Guimarães**, no intuito que as pessoas aprendam a criar a própria página na web.
+Projeto que foi criado dentro do curso **Reboot.dev** Página de Apresentação Pessoal por **Rafael Guimarães da arbyte**, no intuito que as pessoas aprendam a criar a própria página na web.
 
 ---
 ## 🚀 Tecnologias utilizadas
