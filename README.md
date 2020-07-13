@@ -1,3 +1,7 @@
+
+
+[![My Curriculum Badge](https://img.shields.io/badge/-Curriculo-green?style=flat-square&logo=MyCurriculum&logoColor=white&link=https://https://javasoares.github.io/)](https://javasoares.github.io/)
+
 # Página de Apresentação Pessoal
 
 # Indice
@@ -18,14 +22,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - HTML
 - CSS
-
+- json
 ---
 ## 📁 Como baixar o projeto
 
 ```bash
 
 # Clonar o repositorio
-$ git clone https://wwww.github.com/JavaSoares/JavaSores.io
+$ git clone https://wwww.github.com/JavaSoares/javasoares.github.io
 
 # Entrar no diretorio 
 $ cd JavaSoares
