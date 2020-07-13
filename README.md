@@ -2,6 +2,9 @@
 
 [![My Curriculum Badge](https://img.shields.io/badge/-Curriculo-green?style=flat-square&logo=MyCurriculum&logoColor=white&link=https://https://javasoares.github.io/)](https://javasoares.github.io/)
 
+![Curriculo - Jair de Oliveira Soares - Google Chrome 2020-07-13 11-56-43](https://user-images.githubusercontent.com/64690628/87320878-e40e4100-c501-11ea-9ee3-7dcf1ea91dde.gif)
+
+---
 # Página de Apresentação Pessoal
 
 # Indice
